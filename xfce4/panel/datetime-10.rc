@@ -1,0 +1,6 @@
+layout=1
+date_font=Sans Bold 6
+time_font=Sans Bold 15
+date_format=%a, %b %d, %Y
+time_format=%H:%M
+

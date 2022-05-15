@@ -1,0 +1,6 @@
+[user]
+pinned=/usr/share/applications/firefox.desktop;/home/woox/.local/share/applications/kitty.desktop;/usr/share/applications/org.gnome.Nautilus.desktop;/home/woox/.local/share/applications/steam.desktop;/usr/share/applications/discord.desktop;/usr/share/applications/spotify.desktop;/usr/share/applications/net.lutris.Lutris.desktop;/usr/share/applications/code-oss.desktop;
+indicatorStyle=1
+indicatorOrientation=0
+forceIconSize=true
+iconSize=40

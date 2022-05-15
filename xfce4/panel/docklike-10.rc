@@ -1,0 +1,13 @@
+[user]
+indicatorStyle=1
+indicatorColorFromTheme=false
+indicatorColor=rgb(0,0,0)
+inactiveColor=rgb(0,0,0)
+forceIconSize=false
+iconSize=32
+pinned=/usr/share/applications/firefox.desktop;/usr/share/applications/org.gnome.Nautilus.desktop;/usr/share/applications/spotify.desktop;/usr/share/applications/steam.desktop;
+noWindowsListIfSingle=false
+showPreviews=true
+showWindowCount=true
+inactiveIndicatorStyle=1
+indicatorOrientation=1
